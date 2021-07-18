@@ -5,7 +5,7 @@ import com.shenma.common.util.Log;
 
 public class Test {
 
-	private Test() {
+	private Test() {123
 	}
 
 	///////////////////////////////////////////////////////
